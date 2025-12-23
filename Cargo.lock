@@ -966,7 +966,7 @@ dependencies = [
 [[package]]
 name = "halo2-axiom"
 version = "0.5.1"
-source = "git+https://github.com/permissionlessweb/halo2-axiom?branch=mvp#ddffb554eb9be81fe5500e2be011d33618e578aa"
+source = "git+https://github.com/permissionlessweb/halo2-axiom?branch=mvp#5632df2dc947e689ab80195ae91947f1e156d555"
 dependencies = [
  "ark-std",
  "blake2b_simd",
